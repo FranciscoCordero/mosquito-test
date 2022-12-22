@@ -1,0 +1,13 @@
+version: '3'
+services:
+  mqtt:
+    image: eclipse-mosquitto:latest
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/log:/mosquitto/log
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/auth:/mosquitto/auth
+    ports:
+      - 1883:1883
+      - 8883:8883
+    hostname: innova-mqtt

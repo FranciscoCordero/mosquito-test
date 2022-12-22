@@ -1,0 +1,698 @@
+1670335988: mosquitto version 2.0.15 starting
+1670335988: Config loaded from /mosquitto/config/mosquitto.conf.
+1670335988: Opening ipv4 listen socket on port 1883.
+1670335988: Opening ipv6 listen socket on port 1883.
+1670335988: mosquitto version 2.0.15 running
+1670335993: New connection from 172.18.0.1:58360 on port 1883.
+1670335993: New client connected from 172.18.0.1:58360 as auto-1307133C-297F-0814-E72B-65024F0D616E (p2, c1, k60).
+1670336041: New connection from 172.18.0.1:58364 on port 1883.
+1670336041: New client connected from 172.18.0.1:58364 as auto-DC73839B-005E-5E01-BE27-6661D86A693E (p2, c1, k60).
+1670336052: Client auto-1307133C-297F-0814-E72B-65024F0D616E closed its connection.
+1670336053: New connection from 172.18.0.1:58366 on port 1883.
+1670336053: New client connected from 172.18.0.1:58366 as auto-5D3E39A1-BAA1-B27B-63F5-99E51BB1658E (p2, c1, k60).
+1670337393: Client auto-DC73839B-005E-5E01-BE27-6661D86A693E closed its connection.
+1670337394: Client auto-5D3E39A1-BAA1-B27B-63F5-99E51BB1658E closed its connection.
+1670337395: mosquitto version 2.0.15 terminating
+1670337395: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670337400: mosquitto version 2.0.15 starting
+1670337400: Config loaded from /mosquitto/config/mosquitto.conf.
+1670337400: Opening ipv4 listen socket on port 1883.
+1670337400: Opening ipv6 listen socket on port 1883.
+1670337400: mosquitto version 2.0.15 running
+1670337581: mosquitto version 2.0.15 terminating
+1670337581: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670337586: mosquitto version 2.0.15 starting
+1670337586: Config loaded from /mosquitto/config/mosquitto.conf.
+1670337586: Opening ipv4 listen socket on port 1883.
+1670337586: Opening ipv6 listen socket on port 1883.
+1670337586: mosquitto version 2.0.15 running
+1670339386: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670341187: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670342988: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670344789: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670345001: mosquitto version 2.0.15 terminating
+1670345001: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670414237: mosquitto version 2.0.15 starting
+1670414237: Config loaded from /mosquitto/config/mosquitto.conf.
+1670414237: Opening ipv4 listen socket on port 1883.
+1670414237: Opening ipv6 listen socket on port 1883.
+1670414237: Opening ipv4 listen socket on port 1884.
+1670414237: Opening ipv6 listen socket on port 1884.
+1670414237: mosquitto version 2.0.15 running
+1670414251: New connection from 172.18.0.1:58368 on port 1883.
+1670414251: Client auto-F9404184-3ECD-C11B-C897-9727D5942B73 disconnected, not authorised.
+1670414252: New connection from 172.18.0.1:58370 on port 1883.
+1670414252: Client auto-E787B7C7-B7EE-F18C-6900-7BA905369F5F disconnected, not authorised.
+1670414254: New connection from 172.18.0.1:58372 on port 1883.
+1670414254: Client auto-D3F094B4-00EA-17C9-0275-D534AF1D548A disconnected, not authorised.
+1670414258: New connection from 172.18.0.1:58374 on port 1883.
+1670414258: Client auto-A58E1F00-B47D-D910-C1FA-9F20AC9FABFC disconnected, not authorised.
+1670414266: New connection from 172.18.0.1:58376 on port 1883.
+1670414266: Client auto-138ABC25-13A6-FCA7-589A-C35ACEB14A9D disconnected, not authorised.
+1670414286: New connection from 172.18.0.1:58380 on port 1883.
+1670414286: Client auto-F0A323E3-78D8-F556-3CA4-EACC079DF335 disconnected, not authorised.
+1670414287: New connection from 172.18.0.1:58384 on port 1883.
+1670414287: Client auto-5AB6BDE3-771B-3929-2FD8-F23B4A305E98 disconnected, not authorised.
+1670414289: New connection from 172.18.0.1:58388 on port 1883.
+1670414289: Client auto-BDCCAB25-476C-C1F8-7AA3-071919827D27 disconnected, not authorised.
+1670414297: New connection from 172.18.0.1:50370 on port 1884.
+1670414297: New client connected from 172.18.0.1:50370 as auto-B5F0874D-B7D6-BF29-FA69-69188D5F5948 (p2, c1, k60).
+1670414302: Client auto-B5F0874D-B7D6-BF29-FA69-69188D5F5948 closed its connection.
+1670416037: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670416689: mosquitto version 2.0.15 terminating
+1670416689: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670416704: mosquitto version 2.0.15 starting
+1670416704: Config loaded from /mosquitto/config/mosquitto.conf.
+1670416704: Opening ipv4 listen socket on port 8883.
+1670416704: Opening ipv6 listen socket on port 8883.
+1670416704: Error: Unable to load CA certificates. Check cafile "/mosquitto/auth/certs/ca.certs".
+1670416704: Opening ipv4 listen socket on port 1883.
+1670416704: Opening ipv6 listen socket on port 1883.
+1670416704: mosquitto version 2.0.15 running
+1670416770: mosquitto version 2.0.15 terminating
+1670416770: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670416776: mosquitto version 2.0.15 starting
+1670416776: Config loaded from /mosquitto/config/mosquitto.conf.
+1670416776: Opening ipv4 listen socket on port 8883.
+1670416776: Opening ipv6 listen socket on port 8883.
+1670416776: Opening ipv4 listen socket on port 1883.
+1670416776: Opening ipv6 listen socket on port 1883.
+1670416776: mosquitto version 2.0.15 running
+1670416815: Client connection from 172.18.0.1 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1670416816: New connection from 172.18.0.1:38936 on port 8883.
+1670416816: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416816: Client <unknown> disconnected: Protocol error.
+1670416818: New connection from 172.18.0.1:38940 on port 8883.
+1670416818: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416818: Client <unknown> disconnected: Protocol error.
+1670416822: New connection from 172.18.0.1:38944 on port 8883.
+1670416822: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416822: Client <unknown> disconnected: Protocol error.
+1670416830: New connection from 172.18.0.1:38948 on port 8883.
+1670416830: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416830: Client <unknown> disconnected: Protocol error.
+1670416846: New connection from 172.18.0.1:38952 on port 8883.
+1670416846: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416846: Client <unknown> disconnected: Protocol error.
+1670416878: New connection from 172.18.0.1:38956 on port 8883.
+1670416878: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416878: Client <unknown> disconnected: Protocol error.
+1670416936: New connection from 172.18.0.1:38960 on port 8883.
+1670416936: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416936: Client <unknown> disconnected: Protocol error.
+1670416937: New connection from 172.18.0.1:38964 on port 8883.
+1670416937: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416937: Client <unknown> disconnected: Protocol error.
+1670416939: New connection from 172.18.0.1:38968 on port 8883.
+1670416939: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416939: Client <unknown> disconnected: Protocol error.
+1670416943: New connection from 172.18.0.1:38972 on port 8883.
+1670416943: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416943: Client <unknown> disconnected: Protocol error.
+1670416951: New connection from 172.18.0.1:38976 on port 8883.
+1670416951: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670416951: Client <unknown> disconnected: Protocol error.
+1670416978: Client connection from 172.18.0.1 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1670416979: New connection from 172.18.0.1:38984 on port 8883.
+1670416979: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670416979: Client <unknown> disconnected: Protocol error.
+1670416981: New connection from 172.18.0.1:38988 on port 8883.
+1670416981: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670416981: Client <unknown> disconnected: Protocol error.
+1670416985: New connection from 172.18.0.1:38992 on port 8883.
+1670416985: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670416985: Client <unknown> disconnected: Protocol error.
+1670416993: New connection from 172.18.0.1:38996 on port 8883.
+1670416993: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670416993: Client <unknown> disconnected: Protocol error.
+1670417160: New connection from 172.18.0.1:39000 on port 8883.
+1670417160: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670417160: Client <unknown> disconnected: Protocol error.
+1670417170: Client connection from 172.18.0.1 failed: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message.
+1670417187: New connection from 172.18.0.1:39008 on port 8883.
+1670417187: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670417187: Client <unknown> disconnected: Protocol error.
+1670417223: New connection from 172.18.0.1:39012 on port 8883.
+1670417223: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670417223: Client <unknown> disconnected: Protocol error.
+1670417263: New connection from 172.18.0.1:39016 on port 8883.
+1670417263: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670417263: Client <unknown> disconnected: Protocol error.
+1670417603: mosquitto version 2.0.15 terminating
+1670417603: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670417739: mosquitto version 2.0.15 starting
+1670417739: Config loaded from /mosquitto/config/mosquitto.conf.
+1670417739: Opening ipv4 listen socket on port 8883.
+1670417739: Opening ipv6 listen socket on port 8883.
+1670417739: Opening ipv4 listen socket on port 1883.
+1670417739: Opening ipv6 listen socket on port 1883.
+1670417739: mosquitto version 2.0.15 running
+1670417750: New connection from 172.18.0.1:39020 on port 8883.
+1670417750: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670417750: Client <unknown> disconnected: Protocol error.
+1670417777: New connection from 172.18.0.1:39024 on port 8883.
+1670417777: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1670417777: Client <unknown> disconnected: Protocol error.
+1670417778: New connection from 172.18.0.1:39028 on port 8883.
+1670417778: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670417778: Client <unknown> disconnected: Protocol error.
+1670417780: New connection from 172.18.0.1:39032 on port 8883.
+1670417780: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670417780: Client <unknown> disconnected: Protocol error.
+1670417784: New connection from 172.18.0.1:39036 on port 8883.
+1670417784: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670417784: Client <unknown> disconnected: Protocol error.
+1670418086: Client connection from 172.18.0.1 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1670418099: Client connection from 172.18.0.1 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1670418100: New connection from 172.18.0.1:39048 on port 8883.
+1670418100: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670418100: Client <unknown> disconnected: Protocol error.
+1670418102: Client connection from 172.18.0.1 failed: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message.
+1670418106: Client connection from 172.18.0.1 failed: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message.
+1670418517: Client connection from 172.18.0.1 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1670418518: Client connection from 172.18.0.1 failed: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message.
+1670418520: New connection from 172.18.0.1:39068 on port 8883.
+1670418520: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670418520: Client <unknown> disconnected: Protocol error.
+1670418524: Client connection from 172.18.0.1 failed: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message.
+1670418532: New connection from 172.18.0.1:39076 on port 8883.
+1670418532: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670418532: Client <unknown> disconnected: Protocol error.
+1670418548: New connection from 172.18.0.1:39080 on port 8883.
+1670418548: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670418548: Client <unknown> disconnected: Protocol error.
+1670418580: New connection from 172.18.0.1:39084 on port 8883.
+1670418580: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670418580: Client <unknown> disconnected: Protocol error.
+1670419070: mosquitto version 2.0.15 terminating
+1670419070: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670419692: mosquitto version 2.0.15 starting
+1670419692: Config loaded from /mosquitto/config/mosquitto.conf.
+1670419692: Opening ipv4 listen socket on port 8883.
+1670419692: Opening ipv6 listen socket on port 8883.
+1670419692: Error: Unable to load CA certificates. Check cafile "/mosquitto/auth/certs/ca.crt".
+1670419692: Opening ipv4 listen socket on port 1883.
+1670419692: Opening ipv6 listen socket on port 1883.
+1670419692: mosquitto version 2.0.15 running
+1670419699: New connection from 172.18.0.1:39088 on port 8883.
+1670419699: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670419699: Client <unknown> disconnected: Protocol error.
+1670419709: Client connection from 172.18.0.1 failed: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message.
+1670419801: Client connection from 172.18.0.1 failed: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message.
+1670420027: New connection from 127.0.0.1:39098 on port 8883.
+1670420027: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1670420027: Client <unknown> disconnected: Protocol error.
+1670420317: mosquitto version 2.0.15 terminating
+1670420317: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670421128: mosquitto version 2.0.15 starting
+1670421128: Config loaded from /mosquitto/config/mosquitto.conf.
+1670421128: Opening ipv4 listen socket on port 8883.
+1670421128: Opening ipv6 listen socket on port 8883.
+1670421128: Opening ipv4 listen socket on port 1883.
+1670421128: Opening ipv6 listen socket on port 1883.
+1670421128: mosquitto version 2.0.15 running
+1670421293: New connection from 127.0.0.1:39100 on port 8883.
+1670421294: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1670421294: Client <unknown> disconnected: Protocol error.
+1670421351: New connection from 172.18.0.1:39104 on port 8883.
+1670421351: Client <unknown> closed its connection.
+1670421505: New connection from 127.0.0.1:39106 on port 8883.
+1670421505: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1670421505: Client <unknown> disconnected: Protocol error.
+1670422140: mosquitto version 2.0.15 terminating
+1670422140: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670422708: mosquitto version 2.0.15 starting
+1670422708: Config loaded from /mosquitto/config/mosquitto.conf.
+1670422708: Opening ipv4 listen socket on port 8883.
+1670422708: Opening ipv6 listen socket on port 8883.
+1670422708: Opening ipv4 listen socket on port 1883.
+1670422708: Opening ipv6 listen socket on port 1883.
+1670422708: mosquitto version 2.0.15 running
+1670422714: New connection from 172.18.0.1:39108 on port 8883.
+1670422714: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670422714: Client <unknown> disconnected: Protocol error.
+1670422724: New connection from 172.18.0.1:39110 on port 8883.
+1670422724: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670422724: Client <unknown> disconnected: Protocol error.
+1670423057: mosquitto version 2.0.15 terminating
+1670423057: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670423060: mosquitto version 2.0.15 starting
+1670423060: Config loaded from /mosquitto/config/mosquitto.conf.
+1670423060: Opening ipv4 listen socket on port 8883.
+1670423060: Opening ipv6 listen socket on port 8883.
+1670423060: Opening ipv4 listen socket on port 1883.
+1670423060: Opening ipv6 listen socket on port 1883.
+1670423060: mosquitto version 2.0.15 running
+1670423191: New connection from 172.18.0.1:39114 on port 8883.
+1670423191: Client <unknown> closed its connection.
+1670423226: New connection from 127.0.0.1:39116 on port 8883.
+1670423226: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1670423226: Client <unknown> disconnected: Protocol error.
+1670423238: mosquitto version 2.0.15 terminating
+1670423238: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670424601: mosquitto version 2.0.15 starting
+1670424601: Config loaded from /mosquitto/config/mosquitto.conf.
+1670424601: Opening ipv4 listen socket on port 8883.
+1670424601: Opening ipv6 listen socket on port 8883.
+1670424601: Opening ipv4 listen socket on port 1883.
+1670424601: Opening ipv6 listen socket on port 1883.
+1670424601: mosquitto version 2.0.15 running
+1670424914: New connection from 127.0.0.1:39118 on port 8883.
+1670424914: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1670424914: Client <unknown> disconnected: Protocol error.
+1670424994: mosquitto version 2.0.15 terminating
+1670424994: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670843285: mosquitto version 2.0.15 starting
+1670843285: Config loaded from /mosquitto/config/mosquitto.conf.
+1670843285: Opening ipv4 listen socket on port 8883.
+1670843285: Opening ipv6 listen socket on port 8883.
+1670843285: Opening ipv4 listen socket on port 1883.
+1670843285: Opening ipv6 listen socket on port 1883.
+1670843285: mosquitto version 2.0.15 running
+1670844217: mosquitto version 2.0.15 terminating
+1670844217: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670844227: mosquitto version 2.0.15 starting
+1670844227: Config loaded from /mosquitto/config/mosquitto.conf.
+1670844227: Opening ipv4 listen socket on port 8883.
+1670844227: Opening ipv6 listen socket on port 8883.
+1670844227: Opening ipv4 listen socket on port 1883.
+1670844227: Opening ipv6 listen socket on port 1883.
+1670844227: mosquitto version 2.0.15 running
+1670844427: New connection from 127.0.0.1:55060 on port 8883.
+1670844427: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1670844427: Client <unknown> disconnected: Protocol error.
+1670845112: mosquitto version 2.0.15 terminating
+1670845112: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670845117: mosquitto version 2.0.15 starting
+1670845117: Config loaded from /mosquitto/config/mosquitto.conf.
+1670845117: Opening ipv4 listen socket on port 8883.
+1670845117: Opening ipv6 listen socket on port 8883.
+1670845117: Error: Unable to load CA certificates. Check cafile "/mosquitto/auth/certs/car.crt".
+1670845117: Opening ipv4 listen socket on port 1883.
+1670845117: Opening ipv6 listen socket on port 1883.
+1670845117: mosquitto version 2.0.15 running
+1670845127: mosquitto version 2.0.15 terminating
+1670845127: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670845131: mosquitto version 2.0.15 starting
+1670845131: Config loaded from /mosquitto/config/mosquitto.conf.
+1670845131: Opening ipv4 listen socket on port 8883.
+1670845131: Opening ipv6 listen socket on port 8883.
+1670845131: Opening ipv4 listen socket on port 1883.
+1670845131: Opening ipv6 listen socket on port 1883.
+1670845131: mosquitto version 2.0.15 running
+1670846932: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670847777: mosquitto version 2.0.15 terminating
+1670847777: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670930887: mosquitto version 2.0.15 starting
+1670930887: Config loaded from /mosquitto/config/mosquitto.conf.
+1670930887: Opening ipv4 listen socket on port 8883.
+1670930887: Opening ipv6 listen socket on port 8883.
+1670930887: Opening ipv4 listen socket on port 1883.
+1670930887: Opening ipv6 listen socket on port 1883.
+1670930887: mosquitto version 2.0.15 running
+1670930963: New connection from 172.18.0.1:55414 on port 8883.
+1670930963: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670930963: Client <unknown> disconnected: Protocol error.
+1670931172: New connection from 172.18.0.1:55418 on port 8883.
+1670931172: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670931172: Client <unknown> disconnected: Protocol error.
+1670931182: Client connection from 172.18.0.1 failed: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message.
+1670931192: New connection from 172.18.0.1:55426 on port 8883.
+1670931192: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670931192: Client <unknown> disconnected: Protocol error.
+1670931202: New connection from 172.18.0.1:55430 on port 8883.
+1670931202: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670931202: Client <unknown> disconnected: Protocol error.
+1670931655: New connection from 172.18.0.1:55432 on port 8883.
+1670931655: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670931655: Client <unknown> disconnected: Protocol error.
+1670931665: New connection from 172.18.0.1:55434 on port 8883.
+1670931665: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670931665: Client <unknown> disconnected: Protocol error.
+1670932108: New connection from 172.18.0.1:55438 on port 8883.
+1670932108: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1670932108: Client <unknown> disconnected: Protocol error.
+1670932210: New connection from 172.18.0.1:55442 on port 8883.
+1670932210: OpenSSL Error[0]: error:14025438:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert internal error
+1670932210: Client <unknown> disconnected: Protocol error.
+1670932220: New connection from 172.18.0.1:55446 on port 8883.
+1670932220: OpenSSL Error[0]: error:14025438:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert internal error
+1670932220: Client <unknown> disconnected: Protocol error.
+1670932688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670932914: mosquitto version 2.0.15 terminating
+1670932914: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670933362: mosquitto version 2.0.15 starting
+1670933362: Config loaded from /mosquitto/config/mosquitto.conf.
+1670933362: Opening ipv4 listen socket on port 8883.
+1670933362: Opening ipv6 listen socket on port 8883.
+1670933362: Opening ipv4 listen socket on port 1883.
+1670933362: Opening ipv6 listen socket on port 1883.
+1670933362: mosquitto version 2.0.15 running
+1670933423: New connection from 172.18.0.1:55448 on port 8883.
+1670933423: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1670933423: Client <unknown> disconnected: Protocol error.
+1670933433: New connection from 172.18.0.1:55450 on port 8883.
+1670933433: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1670933433: Client <unknown> disconnected: Protocol error.
+1670933759: New connection from 172.18.0.1:55452 on port 8883.
+1670933759: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1670933759: Client <unknown> disconnected: Protocol error.
+1670933812: New connection from 172.18.0.1:55454 on port 8883.
+1670933812: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1670933812: Client <unknown> disconnected: Protocol error.
+1670933822: New connection from 172.18.0.1:55456 on port 8883.
+1670933822: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1670933822: Client <unknown> disconnected: Protocol error.
+1670935163: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670936977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670938778: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670940579: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670942380: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1670943369: mosquitto version 2.0.15 terminating
+1670943369: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671017494: mosquitto version 2.0.15 starting
+1671017494: Config loaded from /mosquitto/config/mosquitto.conf.
+1671017494: Opening ipv4 listen socket on port 8883.
+1671017494: Opening ipv6 listen socket on port 8883.
+1671017494: Opening ipv4 listen socket on port 1883.
+1671017494: Opening ipv6 listen socket on port 1883.
+1671017494: mosquitto version 2.0.15 running
+1671017852: New connection from 127.0.0.1:40066 on port 8883.
+1671017852: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671017852: Client <unknown> disconnected: Protocol error.
+1671018028: New connection from 127.0.0.1:40070 on port 8883.
+1671018028: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671018028: Client <unknown> disconnected: Protocol error.
+1671018378: mosquitto version 2.0.15 terminating
+1671018378: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671018401: mosquitto version 2.0.15 starting
+1671018401: Config loaded from /mosquitto/config/mosquitto.conf.
+1671018401: Opening ipv4 listen socket on port 8883.
+1671018401: Opening ipv6 listen socket on port 8883.
+1671018401: Opening ipv4 listen socket on port 1883.
+1671018401: Opening ipv6 listen socket on port 1883.
+1671018401: mosquitto version 2.0.15 running
+1671018403: mosquitto version 2.0.15 terminating
+1671018403: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671028255: mosquitto version 2.0.15 starting
+1671028255: Config loaded from /mosquitto/config/mosquitto.conf.
+1671028255: Opening ipv4 listen socket on port 8883.
+1671028255: Opening ipv6 listen socket on port 8883.
+1671028255: Opening ipv4 listen socket on port 1883.
+1671028255: Opening ipv6 listen socket on port 1883.
+1671028255: mosquitto version 2.0.15 running
+1671028377: New connection from 127.0.0.1:40084 on port 8883.
+1671028379: Client <unknown> closed its connection.
+1671028398: New connection from 127.0.0.1:40086 on port 8883.
+1671028401: New client connected from 127.0.0.1:40086 as auto-09D3D57A-7E71-68A7-D700-C22A71496CD6 (p2, c1, k60, u'localhost').
+1671028401: Client auto-09D3D57A-7E71-68A7-D700-C22A71496CD6 disconnected.
+1671028669: New connection from 172.19.0.1:40088 on port 8883.
+1671028669: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1671028669: Client <unknown> disconnected: Protocol error.
+1671028707: New connection from 172.19.0.1:40092 on port 8883.
+1671028707: New client connected from 172.19.0.1:40092 as auto-444F4EE3-13BF-9AD9-382A-CBFCC37D6D40 (p2, c1, k60, u'localhost').
+1671028902: Client auto-444F4EE3-13BF-9AD9-382A-CBFCC37D6D40 closed its connection.
+1671028912: New connection from 172.19.0.1:40096 on port 8883.
+1671028912: New client connected from 172.19.0.1:40096 as auto-D31F7425-49B8-BB01-6ACC-1B379F554AA5 (p2, c1, k60, u'localhost').
+1671028919: New connection from 127.0.0.1:40098 on port 8883.
+1671028921: New client connected from 127.0.0.1:40098 as auto-85673709-7AF5-5009-7B8C-C90E2EC2A611 (p2, c1, k60, u'localhost').
+1671028921: Client auto-85673709-7AF5-5009-7B8C-C90E2EC2A611 disconnected.
+1671028959: New connection from 127.0.0.1:40100 on port 8883.
+1671028961: New client connected from 127.0.0.1:40100 as auto-E735AAE1-433F-7D70-93E2-24E91AFD88DC (p2, c1, k60, u'localhost').
+1671028961: Client auto-E735AAE1-433F-7D70-93E2-24E91AFD88DC disconnected.
+1671029126: New connection from 127.0.0.1:40102 on port 8883.
+1671029128: New client connected from 127.0.0.1:40102 as auto-141A048B-60C9-6BA9-D41C-335270AFF516 (p2, c1, k60, u'localhost').
+1671029128: Client auto-141A048B-60C9-6BA9-D41C-335270AFF516 disconnected.
+1671029291: Client auto-D31F7425-49B8-BB01-6ACC-1B379F554AA5 closed its connection.
+1671029293: New connection from 172.19.0.1:40106 on port 8883.
+1671029293: New client connected from 172.19.0.1:40106 as auto-E2806804-1805-A215-9FD8-09916F1C5512 (p2, c1, k60, u'localhost').
+1671029445: New connection from 127.0.0.1:40108 on port 8883.
+1671029445: New client connected from 127.0.0.1:40108 as auto-35D2816C-DABD-4738-3A78-EB7FEA76DA93 (p2, c1, k60, u'localhost').
+1671029445: Client auto-35D2816C-DABD-4738-3A78-EB7FEA76DA93 disconnected.
+1671030056: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671030571: New connection from 127.0.0.1:40110 on port 8883.
+1671030571: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1671030571: Client <unknown> disconnected: Protocol error.
+1671030603: Client auto-E2806804-1805-A215-9FD8-09916F1C5512 closed its connection.
+1671030614: New connection from 172.19.0.1:40114 on port 8883.
+1671030614: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1671030614: Client <unknown> disconnected: Protocol error.
+1671030624: New connection from 172.19.0.1:40118 on port 8883.
+1671030624: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1671030624: Client <unknown> disconnected: Protocol error.
+1671030634: New connection from 172.19.0.1:40122 on port 8883.
+1671030634: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1671030634: Client <unknown> disconnected: Protocol error.
+1671030636: New connection from 127.0.0.1:40124 on port 8883.
+1671030636: New client connected from 127.0.0.1:40124 as auto-F213612F-0555-36F0-B507-6AEC2A4C5C66 (p2, c1, k60, u'localhost').
+1671030636: Client auto-F213612F-0555-36F0-B507-6AEC2A4C5C66 disconnected.
+1671030643: New connection from 172.19.0.1:40128 on port 8883.
+1671030643: New client connected from 172.19.0.1:40128 as auto-B12879BE-DD86-33A9-2E11-CF2D43A94205 (p2, c1, k60, u'localhost').
+1671030646: New connection from 127.0.0.1:40130 on port 8883.
+1671030646: New client connected from 127.0.0.1:40130 as auto-C0D85BC8-615C-23E4-8085-658BE1CF45F5 (p2, c1, k60, u'localhost').
+1671030646: Client auto-C0D85BC8-615C-23E4-8085-658BE1CF45F5 disconnected.
+1671030657: Client auto-B12879BE-DD86-33A9-2E11-CF2D43A94205 closed its connection.
+1671031014: New connection from 172.19.0.1:41190 on port 1883.
+1671031014: New client connected from 172.19.0.1:41190 as auto-BB99F2CA-023F-120D-507D-BEDF4F7D71BE (p2, c1, k60).
+1671031018: New connection from 127.0.0.1:40134 on port 8883.
+1671031018: New client connected from 127.0.0.1:40134 as auto-1AD503C4-79AF-727A-7B51-2C2E7777E09B (p2, c1, k60, u'localhost').
+1671031018: Client auto-1AD503C4-79AF-727A-7B51-2C2E7777E09B disconnected.
+1671031170: Client auto-BB99F2CA-023F-120D-507D-BEDF4F7D71BE closed its connection.
+1671031176: mosquitto version 2.0.15 terminating
+1671031176: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671031181: mosquitto version 2.0.15 starting
+1671031181: Config loaded from /mosquitto/config/mosquitto.conf.
+1671031181: Opening ipv4 listen socket on port 8883.
+1671031181: Opening ipv6 listen socket on port 8883.
+1671031181: Opening ipv4 listen socket on port 1883.
+1671031181: Opening ipv6 listen socket on port 1883.
+1671031181: Opening ipv4 listen socket on port 1883.
+1671031181: Error: Address in use
+1671031303: mosquitto version 2.0.15 starting
+1671031303: Config loaded from /mosquitto/config/mosquitto.conf.
+1671031303: Opening ipv4 listen socket on port 8883.
+1671031303: Opening ipv6 listen socket on port 8883.
+1671031303: Opening ipv4 listen socket on port 1883.
+1671031303: Opening ipv6 listen socket on port 1883.
+1671031303: mosquitto version 2.0.15 running
+1671031859: New connection from 172.19.0.1:40138 on port 8883.
+1671031859: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1671031859: Client <unknown> disconnected: Protocol error.
+1671031869: New connection from 172.19.0.1:40142 on port 8883.
+1671031869: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1671031869: Client <unknown> disconnected: Protocol error.
+1671032615: New connection from 172.19.0.1:40144 on port 8883.
+1671032615: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1671032615: Client <unknown> disconnected: Protocol error.
+1671032717: New connection from 172.19.0.1:40148 on port 8883.
+1671032717: Client <unknown> closed its connection.
+1671032749: New connection from 127.0.0.1:40150 on port 8883.
+1671032749: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671032749: Client <unknown> disconnected: Protocol error.
+1671032768: New connection from 127.0.0.1:40152 on port 8883.
+1671032770: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671032770: Client <unknown> disconnected: Protocol error.
+1671033103: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671034237: New connection from 127.0.0.1:40160 on port 8883.
+1671034238: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671034238: Client <unknown> disconnected: Protocol error.
+1671034904: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671035023: mosquitto version 2.0.15 terminating
+1671035023: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671035027: mosquitto version 2.0.15 starting
+1671035027: Config loaded from /mosquitto/config/mosquitto.conf.
+1671035027: Opening ipv4 listen socket on port 8883.
+1671035027: Opening ipv6 listen socket on port 8883.
+1671035027: Error: Unable to load CA certificates. Check cafile "/mosquitto/auth/certs/ca.crt".
+1671035027: Error: Unable to load server certificate "/mosquitto/auth/certs/server.crt". Check certfile.
+1671035027: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1671035027: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1671035027: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1671035027: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1671035027: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1671035027: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1671035039: mosquitto version 2.0.15 starting
+1671035039: Config loaded from /mosquitto/config/mosquitto.conf.
+1671035039: Opening ipv4 listen socket on port 8883.
+1671035039: Opening ipv6 listen socket on port 8883.
+1671035039: Error: Unable to load CA certificates. Check cafile "/mosquitto/auth/certs/ca.crt".
+1671035039: Error: Unable to load server certificate "/mosquitto/auth/certs/server.crt". Check certfile.
+1671035039: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1671035039: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1671035039: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1671035039: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1671035039: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1671035039: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1671035081: mosquitto version 2.0.15 starting
+1671035081: Config loaded from /mosquitto/config/mosquitto.conf.
+1671035081: Opening ipv4 listen socket on port 8883.
+1671035081: Opening ipv6 listen socket on port 8883.
+1671035081: Error: Unable to load CA certificates. Check cafile "/mosquitto/auth/certs/ca.crt".
+1671035081: Error: Unable to load server certificate "/mosquitto/auth/certs/server.crt". Check certfile.
+1671035081: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1671035081: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1671035081: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1671035081: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1671035081: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1671035081: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1671042359: mosquitto version 2.0.15 starting
+1671042359: Config loaded from /mosquitto/config/mosquitto.conf.
+1671042359: Opening ipv4 listen socket on port 8883.
+1671042359: Opening ipv6 listen socket on port 8883.
+1671042359: Opening ipv4 listen socket on port 1883.
+1671042359: Opening ipv6 listen socket on port 1883.
+1671042359: mosquitto version 2.0.15 running
+1671042483: New connection from 127.0.0.1:40172 on port 8883.
+1671042486: Client auto-4A0BD9C2-B41F-034F-72C0-DC9E5E3776FC disconnected, not authorised.
+1671042634: New connection from 127.0.0.1:40174 on port 8883.
+1671042637: Client auto-37779623-0097-87C3-229B-8E33E3313EED disconnected, not authorised.
+1671042662: mosquitto version 2.0.15 terminating
+1671042662: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671042667: mosquitto version 2.0.15 starting
+1671042667: Config loaded from /mosquitto/config/mosquitto.conf.
+1671042667: Opening ipv4 listen socket on port 8883.
+1671042667: Opening ipv6 listen socket on port 8883.
+1671042667: Opening ipv4 listen socket on port 1883.
+1671042667: Opening ipv6 listen socket on port 1883.
+1671042667: mosquitto version 2.0.15 running
+1671042759: New connection from 127.0.0.1:40176 on port 8883.
+1671042761: New client connected from 127.0.0.1:40176 as auto-43AFC6DC-F784-502F-3A83-8C9468370C64 (p2, c1, k60, u'localhost').
+1671042761: Client auto-43AFC6DC-F784-502F-3A83-8C9468370C64 disconnected.
+1671042945: New connection from 127.0.0.1:40178 on port 8883.
+1671042947: New client connected from 127.0.0.1:40178 as auto-4907EC54-07AA-F260-2444-41184C133003 (p2, c1, k60, u'fcordero').
+1671042947: Client auto-4907EC54-07AA-F260-2444-41184C133003 disconnected.
+1671044468: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671045663: mosquitto version 2.0.15 terminating
+1671045663: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671046451: mosquitto version 2.0.15 starting
+1671046451: Config loaded from /mosquitto/config/mosquitto.conf.
+1671046451: Opening ipv4 listen socket on port 8883.
+1671046451: Opening ipv6 listen socket on port 8883.
+1671046451: mosquitto version 2.0.15 running
+1671046584: New connection from 127.0.0.1:40182 on port 8883.
+1671046586: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671046586: Client <unknown> disconnected: Protocol error.
+1671046890: New connection from 172.19.0.1:40186 on port 8883.
+1671046890: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1671046890: Client <unknown> disconnected: Protocol error.
+1671046900: New connection from 172.19.0.1:40190 on port 8883.
+1671046900: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1671046900: Client <unknown> disconnected: Protocol error.
+1671047336: New connection from 172.19.0.1:40192 on port 8883.
+1671047336: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1671047336: Client <unknown> disconnected: Protocol error.
+1671047346: New connection from 172.19.0.1:40194 on port 8883.
+1671047346: OpenSSL Error[0]: error:140393F2:SSL routines:ACCEPT_SR_CERT_VRFY:sslv3 alert unexpected message
+1671047346: Client <unknown> disconnected: Protocol error.
+1671047404: New connection from 127.0.0.1:40196 on port 8883.
+1671047406: Client <unknown> closed its connection.
+1671047739: mosquitto version 2.0.15 terminating
+1671047739: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671047745: mosquitto version 2.0.15 starting
+1671047745: Config loaded from /mosquitto/config/mosquitto.conf.
+1671047745: Opening ipv4 listen socket on port 8883.
+1671047745: Opening ipv6 listen socket on port 8883.
+1671047745: mosquitto version 2.0.15 running
+1671047820: New connection from 127.0.0.1:40198 on port 8883.
+1671047822: Client <unknown> closed its connection.
+1671047847: New connection from 127.0.0.1:40200 on port 8883.
+1671047849: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671047849: Client <unknown> disconnected: Protocol error.
+1671048470: mosquitto version 2.0.15 terminating
+1671048470: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671048872: mosquitto version 2.0.15 starting
+1671048872: Config loaded from /mosquitto/config/mosquitto.conf.
+1671048872: Opening ipv4 listen socket on port 8883.
+1671048872: Opening ipv6 listen socket on port 8883.
+1671048872: mosquitto version 2.0.15 running
+1671048927: New connection from 127.0.0.1:40202 on port 8883.
+1671048930: OpenSSL Error[0]: error:14FFF086:SSL routines:(UNKNOWN)SSL_internal:certificate verify failed
+1671048930: Client <unknown> disconnected: Protocol error.
+1671048961: New connection from 127.0.0.1:40204 on port 8883.
+1671048963: OpenSSL Error[0]: error:14FFF086:SSL routines:(UNKNOWN)SSL_internal:certificate verify failed
+1671048963: Client <unknown> disconnected: Protocol error.
+1671049085: New connection from 127.0.0.1:40206 on port 8883.
+1671049087: OpenSSL Error[0]: error:14FFF086:SSL routines:(UNKNOWN)SSL_internal:certificate verify failed
+1671049087: Client <unknown> disconnected: Protocol error.
+1671049142: mosquitto version 2.0.15 terminating
+1671049142: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671049147: mosquitto version 2.0.15 starting
+1671049147: Config loaded from /mosquitto/config/mosquitto.conf.
+1671049147: Opening ipv4 listen socket on port 8883.
+1671049147: Opening ipv6 listen socket on port 8883.
+1671049147: mosquitto version 2.0.15 running
+1671049183: New connection from 127.0.0.1:40208 on port 8883.
+1671049184: OpenSSL Error[0]: error:14FFF086:SSL routines:(UNKNOWN)SSL_internal:certificate verify failed
+1671049184: Client <unknown> disconnected: Protocol error.
+1671049213: mosquitto version 2.0.15 terminating
+1671049213: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671049566: mosquitto version 2.0.15 starting
+1671049566: Config loaded from /mosquitto/config/mosquitto.conf.
+1671049566: Opening ipv4 listen socket on port 8883.
+1671049566: Opening ipv6 listen socket on port 8883.
+1671049566: mosquitto version 2.0.15 running
+1671049594: New connection from 127.0.0.1:40210 on port 8883.
+1671049594: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671049594: Client <unknown> disconnected: Protocol error.
+1671049757: New connection from 127.0.0.1:40214 on port 8883.
+1671049757: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671049757: Client <unknown> disconnected: Protocol error.
+1671050140: New connection from 127.0.0.1:40216 on port 8883.
+1671050140: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671050140: Client <unknown> disconnected: Protocol error.
+1671050166: mosquitto version 2.0.15 terminating
+1671050166: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671051866: mosquitto version 2.0.15 starting
+1671051866: Config loaded from /mosquitto/config/mosquitto.conf.
+1671051866: Opening ipv4 listen socket on port 8883.
+1671051866: Opening ipv6 listen socket on port 8883.
+1671051866: mosquitto version 2.0.15 running
+1671051899: New connection from 127.0.0.1:40218 on port 8883.
+1671051899: New client connected from 127.0.0.1:40218 as auto-8FC3BB39-5DAD-BBF3-5BDB-ACE51C9CE138 (p2, c1, k60, u'fcorder').
+1671051899: Client auto-8FC3BB39-5DAD-BBF3-5BDB-ACE51C9CE138 disconnected.
+1671053666: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671055467: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671057268: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671059069: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671060870: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671062671: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671714560: mosquitto version 2.0.15 starting
+1671714560: Config loaded from /mosquitto/config/mosquitto.conf.
+1671714560: Opening ipv4 listen socket on port 8883.
+1671714560: Opening ipv6 listen socket on port 8883.
+1671714560: mosquitto version 2.0.15 running
+1671714886: New connection from 127.0.0.1:38864 on port 8883.
+1671714886: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1671714886: Client <unknown> disconnected: Protocol error.
+1671715383: New connection from 127.0.0.1:38866 on port 8883.
+1671715383: New client connected from 127.0.0.1:38866 as auto-A58C5555-AE2B-FF27-C7CC-7D1C6BBEBEDD (p2, c1, k60, u'fcorder').
+1671715383: Client auto-A58C5555-AE2B-FF27-C7CC-7D1C6BBEBEDD disconnected.
+1671715442: New connection from 127.0.0.1:38868 on port 8883.
+1671715442: New client connected from 127.0.0.1:38868 as auto-7411C08B-98B3-6651-3DB4-FC7F03946B0E (p2, c1, k60, u'fcorder').
+1671715446: New connection from 127.0.0.1:38870 on port 8883.
+1671715446: New client connected from 127.0.0.1:38870 as auto-A0E218A4-A592-1E8B-5B00-B6729BFCAD72 (p2, c1, k60, u'fcorder').
+1671715446: Client auto-A0E218A4-A592-1E8B-5B00-B6729BFCAD72 disconnected.
+1671715467: New connection from 172.18.0.2:58638 on port 8883.
+1671715467: OpenSSL Error[0]: error:02FFF020:system library:func(4095):Broken pipe
+1671715467: Client <unknown> disconnected: Protocol error.
+1671715485: Client auto-7411C08B-98B3-6651-3DB4-FC7F03946B0E disconnected.
+1671715676: New connection from 172.18.0.2:58640 on port 8883.
+1671715676: Client <unknown> closed its connection.
+1671715916: mosquitto version 2.0.15 terminating
+1671715916: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1671716164: mosquitto version 2.0.15 starting
+1671716164: Config loaded from /mosquitto/config/mosquitto.conf.
+1671716164: Opening ipv4 listen socket on port 8883.
+1671716164: Opening ipv6 listen socket on port 8883.
+1671716164: mosquitto version 2.0.15 running
+1671716298: New connection from 172.18.0.2:58642 on port 8883.
+1671716298: New client connected from 172.18.0.2:58642 as auto-4F694E76-DD9D-0EDF-64A2-AFBBD56420D7 (p2, c1, k60, u'fcordero').
+1671716427: New connection from 172.18.0.2:58644 on port 8883.
+1671716427: New client connected from 172.18.0.2:58644 as auto-7DB8DA75-3610-B17C-05C7-A6C297E174E4 (p2, c1, k60, u'fcordero').
+1671716427: Client auto-7DB8DA75-3610-B17C-05C7-A6C297E174E4 disconnected.
+1671716521: Client auto-4F694E76-DD9D-0EDF-64A2-AFBBD56420D7 disconnected.
+1671716534: New connection from 172.18.0.2:58646 on port 8883.
+1671716534: OpenSSL Error[0]: error:14FFF0C7:SSL routines:(UNKNOWN)SSL_internal:peer did not return a certificate
+1671716534: Client <unknown> disconnected: Protocol error.
+1671717407: mosquitto version 2.0.15 terminating
+1671717407: Saving in-memory database to /mosquitto/data//mosquitto.db.
